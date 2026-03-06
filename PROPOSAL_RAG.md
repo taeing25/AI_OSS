@@ -45,7 +45,7 @@
 - **RAG Tools:** LangChain 또는 LlamaIndex
 - **LLM API:** (OpenAI, 등)
 - **Infrastructure:** Git 
-추후 추가 예정
+
 
 ## 4. 마일스톤 (Milestones)
 - **W 1-4:** 기획 및 설계, 필요한 데이터(공식 안내문서) 수집, 개발 환경 초기 세팅
